@@ -1,0 +1,81 @@
+<resources>
+    <!-- ==================== -->
+    <!--      APP METADATA     -->
+    <!-- ==================== -->
+    <string name="app_name">SmartBudget</string>
+    <string name="app_logo_desc">SmartBudget Application Logo</string>
+
+    <!-- ==================== -->
+    <!--    AUTHENTICATION    -->
+    <!-- ==================== -->
+    <!-- Registration Screen -->
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Login Screen -->
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="todo">login_description\n</string>
+
+    <!-- ==================== -->
+    <!--      DASHBOARD       -->
+    <!-- ==================== -->
+    <string name="my_wallet">My Wallet</string>
+    <string name="recent_expenses">Recent Expenses</string>
+    <string name="DashboardDescription">TODO</string>
+
+    <!-- Budget Summary Card -->
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="remaining_budget_template">Remaining: %1$s</string> <!-- Use with String.format -->
+
+    <!-- Quick Actions -->
+    <string name="add_expense">Add Expense</string>
+    <string name="view_expenses">View Expenses</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="reports">Reports</string>
+
+    <!-- ==================== -->
+    <!--    EXPENSE MANAGER   -->
+    <!-- ==================== -->
+    <!-- Add Expense Screen -->
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="category">Category</string>
+    <string name="receipt_photo">Receipt Photo</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="addExpenseDescription">TODO</string>
+
+    <!-- Expense List Screen -->
+    <string name="this_week">This Week</string>
+    <string name="this_month">This Month</string>
+    <string name="custom_range">Custom Range</string>
+    <string name="ExpenseListDescription">TODO</string>
+
+    <!-- ==================== -->
+    <!--    BUDGET MANAGER   -->
+    <!-- ==================== -->
+    <string name="category_budgets">Category Budgets</string>
+    <string name="save_budget">Save Budget</string>
+
+    <!-- ==================== -->
+    <!--      FORM HINTS      -->
+    <!-- ==================== -->
+    <string name="hint_amount">Enter amount</string>
+    <string name="hint_description">Enter description</string>
+    <string name="hint_date">Select date</string>
+    <string name="hint_category">Select category</string>
+
+    <!-- ==================== -->
+    <!--     ERROR MESSAGES   -->
+    <!-- ==================== -->
+    <string name="error_required_field">This field is required</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_password_mismatch">Passwords don\'t match</string>
+    <string name="error_invalid_amount">Please enter a valid amount</string>
+</resources>
