@@ -48,7 +48,7 @@ These features are clearly implemented in the app and demonstrated in the presen
 
 ## 📲 Installation
 To install the APK:
-1. Download the latest [SmartBudget APK](app/build/outputs/apk/debug/app-debug.apk)
+1. Download the latest [SmartBudget APK][(app/build/outputs/apk/debug/app-debug.apk](https://github.com/SiziphiweD/SmartBudget/blob/master/Smartbudget.apk))
 2. Transfer to an Android phone
 3. Enable “Install from Unknown Sources”
 4. Tap and install the APK
